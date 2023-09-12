@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on *Project Management*<br>👯 I’m looking to collaborate on *Flutter Projects*<br>🌱 I’m currently learning *more about flutter and Dart*<br>💬 Ask me about *Flutter , Dart*<br>
 
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mb3zfnoa0whkh9qnsafu12jvafp9gmzxonhw1zvl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdhulaj.midhulaj.mp?mibextid=LQQJ4d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/____.midlaj.____/?igshid=ZDc4ODBmNjlmNQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammed-midlaj-60399a249) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@muhammedmidlaj8395) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/mhmdmidlaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22077223/muhammed-midlaj?tab=profile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/i/flow/login?redirect_after_login=%2FMuhamme97074341) 
